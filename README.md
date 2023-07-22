@@ -1,15 +1,22 @@
 # Entrega Taller 15 - HealthCenter (Kotlin)
 
-Hernando Silva Leal
+BACKEND TALLER 15 
 
-Objetivo
+https://github.com/HernandoSilvaLeal/project15_HealthCenter
+
+Estudiante Hernando Silva Leal
+
+Cedula 1024545542
+
+Correo hernandosilvaleal
+
+Curso Backend Intermedio
+
+=> Objetivo
 Identificar las fortalezas del estudiante relacionadas a las temáticas trabajadas hasta la unidad 15 de este curso.
-Instrucciones de la actividad
 
-Aplicando lo visto en el curso hasta el momento realizar la siguiente práctica.
-
-
-Realizar un aplicativo web (REST API)  que por medio de formularios reciba la información de pacientes y doctores, los almacenen en una base de datos y luego con DOM los muestre en una página.
+=> Instrucciones de la actividad: 
+Aplicando lo visto en el curso hasta el momento realizar la siguiente práctica. Realizar un aplicativo web (REST API)  que por medio de formularios reciba la información de pacientes y doctores, los almacenen en una base de datos y luego con DOM los muestre en una página.
 
 1. Formularios: Los formularios deben hacer uso de los diferentes tipos de entradas de datos en HTML.
 

@@ -1,4 +1,4 @@
-# Entrega Taller 15 - HealthCenter (Kotlin)
+# Atenea UDistrital, Taller 15 - HealthCenter (Kotlin)
 
 BACKEND TALLER 15 
 

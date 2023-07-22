@@ -40,7 +40,9 @@ Realizar un aplicativo web (REST API)  que por medio de formularios reciba la in
    
    
    c. El formulario cita médica en donde se soliciten los siguientes datos
+   
       ---> Número documento paciente.
+   
       ---> Lista desplegable de la especialidad.
    
    d. Al asignar una cita, esta se debe realizar con el doctor y el paciente.
@@ -48,7 +50,7 @@ Realizar un aplicativo web (REST API)  que por medio de formularios reciba la in
 3. Utilice TypeScript para la validación de los formularios.
 
 4. Listas desplegables. Se debe tener una lista desplegable para las Especialidades (doctor y paciente) con las siguientes especialidades.
-5. 
+
    ---> Medicina general.
    
    ---> Cardiología.
@@ -66,18 +68,18 @@ Realizar un aplicativo web (REST API)  que por medio de formularios reciba la in
    ---> Radiología.
    
 
-6. La información capturada en los formularios se debe almacenar en una base de datos por medio de POST.
+4. La información capturada en los formularios se debe almacenar en una base de datos por medio de POST.
 
-7. Debe haber una página que muestre el listado de pacientes con su información personal, por medio de GET.
+5. Debe haber una página que muestre el listado de pacientes con su información personal, por medio de GET.
 
-8. Debe haber una página que muestra el listado de doctores  con su información, por medio de GET.
+6. Debe haber una página que muestra el listado de doctores  con su información, por medio de GET.
 
-9. Debe haber una página que muestra el listado de citas con su información, por medio de GET.
+7. Debe haber una página que muestra el listado de citas con su información, por medio de GET.
 
-10. Se debe utilizar JAVA y Spring.
+8. Se debe utilizar JAVA y Spring.
 
-11. Utilice como motor de base de datos, MySQL o MongoDB.
+9. Utilice como motor de base de datos, MySQL o MongoDB.
 
-12. Realice un documento con las pruebas unitarias.
+10. Realice un documento con las pruebas unitarias.
 
-13. Subir el aplicativo a un repositorio Github.
+11. Subir el aplicativo a un repositorio Github.
